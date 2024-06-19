@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("timeZoneInfoThing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f0d51d4a2c02e5333c22525428691d290e2ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("timeZoneInfoThing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("timeZoneInfoThing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
