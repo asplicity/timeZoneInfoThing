@@ -1,0 +1,14 @@
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\bin\Debug\net8.0\timeZoneInfoThing.exe
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\bin\Debug\net8.0\timeZoneInfoThing.deps.json
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\bin\Debug\net8.0\timeZoneInfoThing.runtimeconfig.json
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\bin\Debug\net8.0\timeZoneInfoThing.dll
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\bin\Debug\net8.0\timeZoneInfoThing.pdb
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.AssemblyInfoInputs.cache
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.AssemblyInfo.cs
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.csproj.CoreCompileInputs.cache
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.dll
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\refint\timeZoneInfoThing.dll
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.pdb
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\timeZoneInfoThing.genruntimeconfig.cache
+C:\Users\ticob\OneDrive\cs\timeZoneInfoThing\obj\Debug\net8.0\ref\timeZoneInfoThing.dll
